@@ -1,53 +1,49 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="30" /> Hi, I'm tammy201805
+# 👋 Hi there, I'm tammy201805
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Learning+HTML+%26+Python+%F0%9F%92%BB;Exploring+Vue.js+%26+Coze+%F0%9F%9A%80;Building+one+commit+at+a+time+%E2%9C%8D%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🌱+Growing+Developer;🐍+Python+%26+HTML+Explorer;🚀+Learning+Vue.js+%26+Coze;💡+Building+Step+by+Step" alt="Typing SVG" />
 </p>
 
-## 👨‍💻 About Me
+## 📖 关于我
 
-我是一名正在成长中的开发者，目前专注于 HTML 和 Python 的学习与实践。最近开始接触 Vue.js 和 Coze 插件开发，虽然项目规模不大，但每一次提交都代表着我向前迈出的一步。
+我是一个正在成长的开发者，目前专注于 HTML 和 Python 的学习与实践。代码世界对我来说充满无限可能，每一次提交都是向前迈进的一小步。
 
-我相信持续学习的力量，也享受从零到一构建东西的过程。代码是我的画布，而 GitHub 则是我的成长日记。
+最近我开始探索 Vue.js 前端框架和 Coze 插件开发，希望将 Web 开发与 AI 工具结合起来，创造一些有趣的小项目。我相信持续学习的力量，也享受从零到一构建东西的过程。
+
+---
+
+## 🛠️ 技术栈
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-Coze-FF6F00?style=flat-square&logo=coze&logoColor=white" />
 </p>
 
-## 🚀 Featured Projects
+---
 
-### 🌐 Web 开发
+## 🚀 精选项目
 
-- 🧩 **[VUE-Learn](https://github.com/tammy201805/VUE-Learn)** ⭐1  
-  Vue.js 学习项目，记录我从零开始探索前端框架的旅程。
+| 项目 | 描述 | 技术 | ⭐ Stars |
+|:---|:---|:---|---:|
+| [VUE-Learn](https://github.com/tammy201805/VUE-Learn) | Vue.js 学习项目，记录前端框架探索 | <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> | ⭐1 |
+| [coze_plugin](https://github.com/tammy201805/coze_plugin) | Coze 插件，Python 开发，探索 AI 工具 | <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | ⭐0 |
+| [me](https://github.com/tammy201805/me) | 个人主页，使用 HTML 构建 | <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> | ⭐0 |
 
-- 🏠 **[me](https://github.com/tammy201805/me)** ⭐0  
-  个人主页，使用 HTML 构建，展示我的数字身份。
+---
 
-### 🔌 插件开发
-
-- 🤖 **[coze_plugin](https://github.com/tammy201805/coze_plugin)** ⭐0  
-  Coze 插件，使用 Python 开发，探索 AI 工具的可能性。
-
-### 📄 个人资料
-
-- 📝 **[tammy201805](https://github.com/tammy201805/tammy201805)** ⭐0  
-  GitHub Profile README，这就是你正在看的地方！
-
-## 📊 GitHub Stats
+## 📊 GitHub 统计
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tammy201805&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tammy201805&layout=compact&theme=radical&hide_border=true" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=tammy201805&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tammy201805&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tammy201805&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  <i>学无止境，码不停蹄</i>
+  <i>一步步，构建未来</i>
 </p>
 
 ---
