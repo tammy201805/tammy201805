@@ -1,14 +1,14 @@
 # 👋 Hi there, I'm tammy201805
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🌱+Learning+Web+Development;🐍+Python+Explorer;🧩+Vue.js+and+Coze+Enthusiast;🚀+Building+One+Project+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🌱+Learning+HTML+%26+Python;🚀+Exploring+Vue.js+Frontend;🤖+Building+Coze+Plugins;💡+Beginner+with+Big+Dreams" alt="Typing SVG" />
 </p>
 
 ## 📖 关于我
 
-你好！我是 tammy，一个正在代码世界里摸索前行的学习者。目前我主要使用 HTML 和 Python 来构建小项目，同时也在积极拓展自己的技术边界，探索 Vue.js 和 Coze 插件开发的乐趣。
+我是一名热爱技术的学习者，正在用 HTML 和 Python 搭建自己的编程基石。从静态页面到简单脚本，每一步都让我离目标更近一点。
 
-我相信学习编程最好的方式就是动手实践。虽然我的项目还很简单、Star 数也不多，但每一个 commit 都是我成长的脚印。我享受从零到一的过程，也期待未来能做出更有影响力的作品。
+最近我迷上了 Vue.js 的前端世界和 Coze 的 AI 插件开发——虽然项目还很小，但探索的过程本身就很酷。我相信，每一个大牛都曾是从零开始的。
 
 ---
 
@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-<img src="https://img.shields.io/badge/-Coze-6366F1?style=flat-square&logo=coze&logoColor=white" />
+<img src="https://img.shields.io/badge/-Coze-1A1A2E?style=flat-square&logo=coze&logoColor=white" />
 </p>
 
 ---
@@ -43,5 +43,7 @@
 ---
 
 <p align="center">
-  <i>一步一步，终至千里</i>
+  <i>从小步开始，走向远方</i>
 </p>
+
+---
