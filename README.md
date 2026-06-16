@@ -1,84 +1,62 @@
-<!-- BLUEPRINT_ENGINEERING_V1 -->
+<!-- holographic -->
 
-<pre style="background:#0d47a1; color:#fff; padding: 1em 1em 0.5em; font-family: 'Courier New', monospace; border-radius: 6px;">
-╔══════════════════════════════════════════╗
-║     ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄      ║
-║    █  TAMMY201805  //  ENGINEER BLUEPRINT █     ║
-║    ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀      ║
-╚══════════════════════════════════════════╝
-</pre>
+<h1 align="center">
+  ✦ tammy201805 ✦
+  <br>
+  <span style="font-size: 0.6em; color: #a0f0ff; letter-spacing: 0.3em;">
+    ENGINEER BLUEPRINT · HOLOGRAPHIC NODE
+  </span>
+</h1>
 
-```
-+------------------- 技术雷达 -------------------+
-|  语言             状态        进度             |
-|  HTML             ████░░░░░░  40%  (主语言)   |
-|  Python           ███░░░░░░░  30%  (主语言)   |
-|  Vue.js           ██░░░░░░░░  20%  (学习中)   |
-|  Coze AI SDK      ██░░░░░░░░  20%  (探索中)   |
-+------------------------------------------------+
-|  公开仓库: 4   |   总星数: 1   |   主要领域: 前端 & AI   |
-+------------------------------------------------+
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-40%25-ff69b4?style=flat-square&logo=html5&logoColor=white&labelColor=1a1a2e" alt="HTML"/>
+  <img src="https://img.shields.io/badge/Python-30%25-00d4ff?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e" alt="Python"/>
+  <img src="https://img.shields.io/badge/Vue.js-20%25-7b68ee?style=flat-square&logo=vuedotjs&logoColor=white&labelColor=1a1a2e" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/Coze%20SDK-10%25-00ff87?style=flat-square&logo=openai&logoColor=white&labelColor=1a1a2e" alt="Coze SDK"/>
+</p>
 
-```
-+=============== 性能统计 ===============+
-|                                       |
-|  仓库数            4                  |
-|  Star 总数         1                  |
-|  主要语言          HTML / Python       |
-|  活跃项目          VUE-Learn (1⭐)    |
-|  技术阶段          积累期 · 成长中    |
-|                                       |
-+=======================================+
+---
+
+```text
+┌──────────────────────────────────────┐
+│  ◈ Learning is iteration.            │
+│  Building, failing,                  │
+│  and rebuilding in light.            │
+│                                      │
+│  Every component is a holographic     │
+│  fragment that reflects the whole.   │
+└──────────────────────────────────────┘
 ```
 
-```
-+================== 模块规范 ==================+
+---
 
-+-- MODULE: 前端学习 (4项目) -------------------+
-|                                               |
-|  [VUE-Learn]      ⭐ 1  |  STATUS: 活跃      |
-|    TYPE: HTML     |  框架: Vue.js             |
-|    DESC: Vue.js 前端框架学习项目，探索组件化   |
-|    开发与路由实践。                            |
-|                                               |
-|  [me]             ⭐ 0  |  STATUS: 存档      |
-|    TYPE: HTML     |  DESC: 个人主页HTML构建，  |
-|    练手页面布局与样式设计。                    |
-|                                               |
-+-----------------------------------------------+
+### 💠 Crystalline Stack
 
-+-- MODULE: AI 插件开发 (1项目) ----------------+
-|                                               |
-|  [coze_plugin]    ⭐ 0  |  STATUS: 开发中    |
-|    TYPE: Python   |  平台: Coze               |
-|    DESC: 基于Coze平台的AI插件开发，实现自定义 |
-|    智能体功能扩展，探索LLM应用落地。           |
-|                                               |
-+-----------------------------------------------+
+<table align="center" cellpadding="10">
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /><br><sub>HTML</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /><br><sub>Python</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" /><br><sub>Vue.js</sub></td>
+    <td align="center"><img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="40" /><br><sub>Coze SDK</sub></td>
+  </tr>
+</table>
 
-+-- MODULE: 个人配置 (1项目) -------------------+
-|                                               |
-|  [tammy201805]    ⭐ 0  |  STATUS: 维护中    |
-|    TYPE: Markdown |  DESC: GitHub Profile     |
-|    页面，本蓝图风格的展示载体。               |
-|                                               |
-+-----------------------------------------------+
-```
+---
 
-```
-+================== 工作流状态 ==================+
-|                                                 |
-|  当前迭代: 正在学习 Vue.js 组件通信             |
-|  待办事项: Coze 插件认证流程文档化              |
-|  技术债务: 无                                  |
-|  里程碑: 完成第一个 Coze 插件 Demo 发布         |
-|                                                 |
-+=================================================+
-```
+### 🪸 Holographic Projects
 
-<pre style="background:#0d47a1; color:#fff; padding: 0.5em 1em; font-family: 'Courier New', monospace; border-radius: 6px;">
-|  蓝图工程 · 持续构建中  |
-|  状态: 🟢 正常运转      |
-|  最后更新: 2025-03-28   |
-</pre>
+| 前端学习                                                                                                                                         | AI 插件开发                                                                                                                                 | 个人配置                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| ◈ [VUE-Learn](https://github.com/tammy201805/VUE-Learn) ⭐1 · HTML<br>Vue.js 组件化学习，探索响应式界面                                         | ◈ [coze_plugin](https://github.com/tammy201805/coze_plugin) ⭐0 · Python<br>LLM 插件原型，对话接口封装                                    | ◈ [tammy201805](https://github.com/tammy201805/tammy201805) ⭐0<br>Profile 主页，全息风格验证                                     |
+| ◈ [me](https://github.com/tammy201805/me) ⭐0 · HTML<br>个人主页 layout 练手，CSS 排版实验                                                        |                                                                                                                                             |                                                                                                                                  |
+
+<small>☆ 表头仅出现一次，每格内为独立项目列表。</small>
+
+---
+
+### ✦ Current Iteration
+
+✦ 学习中：**Vue.js 组件通信**（props / emit / provide-inject）  
+✦ 待办：**Coze 插件认证流程文档化**  
+✦ 里程碑：完成第一个 **Coze 插件 Demo** 发布  
+✦ 最后更新：`2025-03-28`
