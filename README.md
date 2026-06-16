@@ -1,62 +1,32 @@
-<!-- holographic -->
+<!-- product-specification -->
+╔═══════════════════════════════════════════════╗
+║           PRODUCT SPECIFICATION                ║
+║     Model: tammy201805 · Revision: 1.0.0       ║
+╚═══════════════════════════════════════════════╝
 
-<h1 align="center">
-  ✦ tammy201805 ✦
-  <br>
-  <span style="font-size: 0.6em; color: #a0f0ff; letter-spacing: 0.3em;">
-    ENGINEER BLUEPRINT · HOLOGRAPHIC NODE
-  </span>
-</h1>
+| 属性 | 规格 |
+|------|------|
+| 版本号 | 1.0.0 |
+| 构建日期 | 2025-03 |
+| 核心语言 | HTML · Python · Vue.js |
+| 开发框架 | Coze SDK |
+| 技术画像 | 前端组件化学习 · LLM接口探索 |
+| 设计哲学 | 代码即规格，界面即接口 |
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-40%25-ff69b4?style=flat-square&logo=html5&logoColor=white&labelColor=1a1a2e" alt="HTML"/>
-  <img src="https://img.shields.io/badge/Python-30%25-00d4ff?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e" alt="Python"/>
-  <img src="https://img.shields.io/badge/Vue.js-20%25-7b68ee?style=flat-square&logo=vuedotjs&logoColor=white&labelColor=1a1a2e" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/Coze%20SDK-10%25-00ff87?style=flat-square&logo=openai&logoColor=white&labelColor=1a1a2e" alt="Coze SDK"/>
-</p>
-
----
-
-```text
-┌──────────────────────────────────────┐
-│  ◈ Learning is iteration.            │
-│  Building, failing,                  │
-│  and rebuilding in light.            │
-│                                      │
-│  Every component is a holographic     │
-│  fragment that reflects the whole.   │
-└──────────────────────────────────────┘
-```
+**支持特性**
+- ✅ 响应式界面开发（Vue.js 组件化）
+- ✅ Python LLM 接口封装（Coze 插件原型）
+- ✅ CSS 排版实验（个人主页布局）
+- ✅ 组件化学习路径（从实验到复用）
 
 ---
+### 产品线
 
-### 💠 Crystalline Stack
-
-<table align="center" cellpadding="10">
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /><br><sub>HTML</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /><br><sub>Python</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" /><br><sub>Vue.js</sub></td>
-    <td align="center"><img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="40" /><br><sub>Coze SDK</sub></td>
-  </tr>
-</table>
+| 分类 | 项目 | ⭐ | 描述 |
+|------|------|----|------|
+| 前端学习 | [VUE-Learn](https://github.com/tammy201805/VUE-Learn) | 1 | Vue.js 组件化学习，探索响应式界面 |
+| 前端学习 | [me](https://github.com/tammy201805/me) | 0 | 个人主页布局练习，CSS 排版实验 |
+| AI 插件开发 | [coze_plugin](https://github.com/tammy201805/coze_plugin) | 0 | LLM 插件原型，对话接口封装 |
 
 ---
-
-### 🪸 Holographic Projects
-
-| 前端学习                                                                                                                                         | AI 插件开发                                                                                                                                 | 个人配置                                                                                                                         |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| ◈ [VUE-Learn](https://github.com/tammy201805/VUE-Learn) ⭐1 · HTML<br>Vue.js 组件化学习，探索响应式界面                                         | ◈ [coze_plugin](https://github.com/tammy201805/coze_plugin) ⭐0 · Python<br>LLM 插件原型，对话接口封装                                    | ◈ [tammy201805](https://github.com/tammy201805/tammy201805) ⭐0<br>Profile 主页，全息风格验证                                     |
-| ◈ [me](https://github.com/tammy201805/me) ⭐0 · HTML<br>个人主页 layout 练手，CSS 排版实验                                                        |                                                                                                                                             |                                                                                                                                  |
-
-<small>☆ 表头仅出现一次，每格内为独立项目列表。</small>
-
----
-
-### ✦ Current Iteration
-
-✦ 学习中：**Vue.js 组件通信**（props / emit / provide-inject）  
-✦ 待办：**Coze 插件认证流程文档化**  
-✦ 里程碑：完成第一个 **Coze 插件 Demo** 发布  
-✦ 最后更新：`2025-03-28`
+当前模块：构建清晰可复用的前端组件，逐步进入 LLM 应用落地。
